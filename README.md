@@ -1,6 +1,6 @@
 # BAE305-Sp19-Lab1
 
-# Lab 1-Introduction, DC components and lab equipment
+# Lab 1-Introduction, DC Components and Lab Equipment
 # By: Ashley Bergman 
 
 # Summary
