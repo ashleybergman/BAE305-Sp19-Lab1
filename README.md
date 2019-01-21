@@ -22,4 +22,6 @@ Oscilloscope, Function Generator, Generic Digital Multimeter, Fluke DMM , DC Pow
 
 # Test Results
 
+        BAE305-Sp19-Lab1/new doc 2019-01-21 18.02.10_1.jpg
+      
 # Discussion
