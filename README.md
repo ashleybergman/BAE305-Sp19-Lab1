@@ -21,5 +21,5 @@ Oscilloscope, Function Generator, Generic Digital Multimeter, Fluke DMM , DC Pow
 # Test Procedures
 
 # Test Results
-! [] https://github.com/ashleybergman/image/blob/master/new%20doc%202019-01-21%2018.02.10_1.jpg
+
 # Discussion
