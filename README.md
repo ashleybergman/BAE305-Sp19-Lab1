@@ -19,7 +19,13 @@ Cables, four resistors, four capacitors, proto board.
 Oscilloscope, Function Generator, Generic Digital Multimeter, Fluke DMM , DC Power Supply. 
 
 # Test Procedures
+1. Using cables and the fluke DMM, connect each resistor and document results. Repeat this with each resistor using the generic DMM as well.
+2. Using cables and the fluke DMM, connect each capacitor and document results. Repeat this with each capacitor using the generic DMM as well. 
+3. Connect the fluke DMM to the DC power supply using cables. Change each output to the desired voltage and document the results from the DMM for V1 and V2. 
+4. Connect the proto board to the function generator and then connect the function generator to the oscilloscope using cables. Set the function generator to produce a 2kHz sine wave then using the oscilloscope screen, observe the wave and record results for each way of reading the amplitude and frequency. 
 
 # Test Results
 ![](new%20doc%202019-01-21%2018.02.10_1.jpg)
+
 # Discussion
+For the most part, the instruments agreed with each other and the measurements from the DMM's were very similar to the DC power supply readings, the resistor values, and the capacitor values. All of the measurements were in line with their expected values, only varying slightly. 
